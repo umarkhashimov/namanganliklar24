@@ -11,3 +11,80 @@
 .my-navbar{
     background-color: #F6F6F9;
 }
+
+.currencies > p{
+    color: gray;
+    margin: 0;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.currencies > p > span {
+    color: #295091;
+    font-weight: 700;
+}
+
+.navbar-telegram{
+    background: linear-gradient(to right, #1E96C8, #37AEE2);
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.navbar-btn{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.navbar-links > li > a{
+    text-decoration: none;
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.navbar-links > li > a.active{
+    color: #295091;
+}
+
+.navbar-links > li > a:hover{
+    color: #295091;
+}
+
+
+.navbar-banner{
+    user-select: none !important;
+    -webkit-user-drag: none !important;
+}
+
+.subheading img{
+    width: 40px;
+}
+
+.subheading{
+    background-color: #F6F6F9;
+}
+
+.news-card .title{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.news-card .content{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.news-card .date{
+    font-weight: 400;
+    font-size: 14px;
+    color:#7688A4;
+}
