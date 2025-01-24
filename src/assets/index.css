@@ -88,3 +88,29 @@
     font-size: 14px;
     color:#7688A4;
 }
+
+.popular-news{
+    background-color: #F6F6F9;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+.mini-card .date{
+    color: #7688A4;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.mini-card .title{
+    font-size: 17px;
+    font-weight: 400;
+    color: #202020;
+}
+
+.mini-card-divider > hr{
+    height: 3px;
+    border: none;
+    background-color: black;
+    margin: 0;
+}
+
